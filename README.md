@@ -114,7 +114,7 @@ Prerequisites:
 
 Clone the Repository:
 ```
-git clone https://github.com/errorfiathck/packet-sniffer.git
+git clone https://github.com/errorfiathck/Demon-Sniffer.git
 cd packet-sniffer
 ```
 
@@ -136,7 +136,7 @@ python sniffer.py -host 192.168.1.1
 ```
 Detailed CLI Mode
 ```
-python sniffer.py -host 192.168.1.1 -cli
+python sniffer.py -host 192.168.1.1 -details
 ```
 
 ## Limitations
