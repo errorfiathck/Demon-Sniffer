@@ -128,15 +128,15 @@ Examples:
 
 Launch GUI Mode
 ```
-python sniffer.py -A -host 192.168.1.1
+python demon-sniffer.py -A -host 192.168.1.1
 ```
 Basic CLI Mode
 ```
-python sniffer.py -host 192.168.1.1
+python demon-sniffer.py -host 192.168.1.1
 ```
 Detailed CLI Mode
 ```
-python sniffer.py -host 192.168.1.1 -details
+python demon-sniffer.py -host 192.168.1.1 -details
 ```
 
 ## Limitations
